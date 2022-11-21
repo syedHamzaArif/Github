@@ -1,0 +1,1 @@
+export const personalToken = 'your personal access token'
